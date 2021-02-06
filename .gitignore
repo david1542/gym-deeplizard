@@ -1,0 +1,7 @@
+**/.ipynb_checkpoints
+**/q_table.npy
+**/models
+**/.vscode
+**/__pycache__
+__pycache__
+.vscode
